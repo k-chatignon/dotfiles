@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kevin.chatignon@gmail.com
+	name = Kevin Chatignon kevin.chatignon@gmail.com
